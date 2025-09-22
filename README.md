@@ -25,7 +25,7 @@ git clone https://github.com/Alan21303/Address-Book-Contact-Book-Application/
 2. Navigate to the project directory:
 
 ```
-cd contact-book
+cd Address-Book-Contact-Book-Application
 ```
 
 3. Build the project:
